@@ -1,4 +1,4 @@
-package Sem2;
+package Seminar3;
 
 public class Student extends Aplicant {
     protected String facultate;

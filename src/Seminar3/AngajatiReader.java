@@ -1,4 +1,4 @@
-package Sem2;
+package Seminar3;
 
 import java.io.File;
 import java.io.FileNotFoundException;

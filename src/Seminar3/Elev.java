@@ -1,4 +1,4 @@
-package Sem2;
+package Seminar3;
 
 public class Elev extends Aplicant{
     private int clasa;
